@@ -1,8 +1,8 @@
 from setuptools import setup
 
 
-setup(name='nose-show-skipped',
-      version='0.1',
+setup(name='o-nose-show-skipped',
+      version='0.2',
       url='https://github.com/cpcloud/nose-show-skipped',
       author='Phillip Cloud',
       author_email='cpcloud@gmail.com',
